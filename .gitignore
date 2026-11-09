@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.git-meta/
+public/sergey-portrait.jpg
+out/
+coverage/
+.vercel/
+*.log
+.env*
+!.env.example
